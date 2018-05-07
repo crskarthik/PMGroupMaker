@@ -1,0 +1,42 @@
+---------------------------
+Group#1
+---------------------------
+Raja Srikar Karthik Chinta
+Midhun Kumar Kurapati
+Nagateja Seetharama Srinivas Prakash Pakala
+Shiva Kumar Mutukula
+---------------------------
+Group#2
+---------------------------
+Akhil Ravipati
+Anusha Chowdary Kollu
+Sai Kumar Uppala
+Shiva Kumar Goud Palle
+---------------------------
+Group#3
+---------------------------
+Purna Medarametla
+Yashwanth Reddy Bommineni
+Anurag Kumar
+Karunakar Reddy Katasani
+---------------------------
+Group#4
+---------------------------
+Hema Chaudary Paladugu
+Srimai Reddy Yanala
+Shirisha Reddy Rapole
+Bharadwaj Dasari
+---------------------------
+Group#5
+---------------------------
+Lakshman Pavan Kumar Vudutha
+Naveenkumar Nuggu
+Matthew Woolery
+Chaithanya Manas Reddy Matta
+---------------------------
+Group#6
+---------------------------
+Rahul Reddy Lankala
+Karthik Raja Vemula
+Chaithanya Cherukuru
+Naga Sai Meghana Mayaluri
